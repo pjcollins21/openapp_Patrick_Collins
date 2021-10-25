@@ -7,6 +7,8 @@ Projects provided as per instructions using base code.
 
 Part One utilizes the python modules CSV and RE which may need to be installed via pip before attempting to run code.
 
+In Part Two, I decided to add a check for non-int numbers or non-digits. Floats, chars, and strings return 'Invalid'. I added two tests to verify. I left in prints in the test as I generally prefer to get some visual feedback when I run code/tests.
+
 The code runs for me prior to a push to git. If you encounter any
 errors, please let me know.
 
